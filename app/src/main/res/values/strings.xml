@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Panorama360 Viewer</string>
+    <string name="banner_ad_unit_id"></string>
+    <string name="insterstitial_ad_unit_id"></string>
+</resources>
